@@ -6,7 +6,8 @@
     background: orange;
     border-color: orange; }
     .jumbotron .btn-primary:hover {
-      background: #555; }
+      background: #555;
+      border-color: #555; }
   .jumbotron p {
     color: #e1e1e1;
     max-width: 75%;
